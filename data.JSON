@@ -3,5 +3,6 @@
     "age": 23,
     "gender": "Female",
     "department": "History",
-    "car": "Honda"
+    "car": "Honda",
+    "canadian": true
 }
